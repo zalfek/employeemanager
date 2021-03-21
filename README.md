@@ -1,1 +1,1 @@
-# Sprng Boot backend APPPI for employeemanagerapp
+# Sprng Boot backend API for employeemanagerapp
